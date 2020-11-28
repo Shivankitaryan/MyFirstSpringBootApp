@@ -1,6 +1,8 @@
 # My First Spring Boot App
 
 ## a Simple Spring boot app with GET, POST, DELETE API
+
+run the project in intelliJ IDEA and goto localhost
  
 http://localhost:8080/users [GET] - to show all users
 
